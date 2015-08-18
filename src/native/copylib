@@ -1,0 +1,1 @@
+cp lib_rasmantuta_ts7800.so /usr/lib && ldconfig

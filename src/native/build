@@ -1,0 +1,1 @@
+gcc -o lib_rasmantuta_ts7800.so -I. -shared ts_control.c PeekPoke.c ReadAnalog.c Watchdog.c Util.c -fpic
